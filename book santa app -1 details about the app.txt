@@ -1,0 +1,21 @@
+adminstrative  :
+
+1 administrator
+a) authorise the users
+b) log-in
+c) 1 request per user
+d) make sure that previous request must be fullfilled before another request
+
+2 user
+a) request fill up a form
+b) rasing the request and reason for the request
+c) notification from donor about the request
+d) gratitude towards the donor
+
+3 donor
+a) easy access to the request raised by the user
+b) request should be stacked according to the priorties
+c) there should be option for payment
+d) notification that he or she have recieved the book or not
+
+
